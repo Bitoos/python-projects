@@ -1,0 +1,55 @@
+Marcas mais seguras: 
+alfa-romero
+audi
+bmw
+chevrolet
+dodge
+honda
+isuzu
+jaguar
+mazda
+mercedes-benz
+mercury
+mitsubishi
+nissan
+peugot
+plymouth
+porsche
+renault
+saab
+subaru
+toyota
+volkswagen
+volvo
+
+
+1.4634146341463414% dos automóveis presentes no arquivo de entrada têm seu motor localizado na parte de trás
+
+colunas  quantidade ausente
+
+coluna1         0
+coluna2         41
+coluna3         0
+coluna4         0
+coluna5         0
+coluna6         2
+coluna7         0
+coluna8         0
+coluna9         0
+coluna10        0
+coluna11        0
+coluna12        0
+coluna13        0
+coluna14        0
+coluna15        0
+coluna16        0
+coluna17        0
+coluna18        0
+coluna19        4
+coluna20        4
+coluna21        0
+coluna22        2
+coluna23        2
+coluna24        0
+coluna25        0
+coluna26        4

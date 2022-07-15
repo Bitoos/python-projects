@@ -1,0 +1,28 @@
+O vidro que apresenta o maior valor de calcio tem a indicacao pelo numero 108
+
+o valor medio do silicio em cada tipo de vidro e de: 
+tipo 1: 72.62
+tipo 2: 72.6
+tipo 3: 72.4
+tipo 4: 0
+tipo 5: 72.37
+tipo 6: 73.21
+tipo 7: 72.97
+
+o vidro que apresenta o maior indice de refracao, tem 1.00 de aluminio
+
+
+
+		conjuntos								quantitades		participacao
+Vidros para janelas (construcoes e veiculos)		163				28%
+Vidros Float para janelas							87				15%
+vidros Float para janelas							70				12%
+Vidros Float para janelas de veiculos				17				3%
+Vidros nao-float para janelas						76				13%
+Vidros nao-float para janelas de construcao			76				13%
+Vidros nao-Float para veiculos						0				0%
+Vidros nao usados para janelas						51				9%
+Containers											13				2%
+Tableware											9				2%
+Farois												29				5%
+TOTAL												591				100%
