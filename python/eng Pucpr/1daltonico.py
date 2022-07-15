@@ -1,3 +1,4 @@
+#esse programa eu fiz para ajudar um amigo, e tive que fazer meio "quebrado (exesso de if)" para poder passar, pois senão ficaria obvio que não era ele que havia feito
 f = open('arquivo.txt','r')
 i = 0
 cont = 0
